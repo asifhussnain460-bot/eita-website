@@ -1,0 +1,6 @@
+{
+  "name": "EITA - Voice Party & Live Social Entertainment",
+  "description": "Mobile-first live voice party platform with 12-seat audio rooms, animated virtual gifts, VIP tiers, agency management, host earnings, and social entertainment.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
